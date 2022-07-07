@@ -10,8 +10,13 @@ https://drive.google.com/drive/folders/1bVRMUYT0cuPTI5lDq-gjPQg6jO__tcLI?usp=sha
 
 Una vez instalado, podemos abrir la carpeta WillOfNature_TFG y ejecutaremos el archivo **WillOfNature.uproject**. Una vez hecho esto, se nos abrirá el editor de unreal para que empecemos a diseñar.
 
+Si solo quieres probar el videojuego, descarga la carpeta del siguiente enlace:
+https://drive.google.com/drive/folders/1CDMD5qF6_ZfJ-ibeAqaZdBwnUxayAdMs?usp=sharing
+
 ---------------------------------------
 
 Todos los Blueprints que se han desarrollado se encuentran en la carpeta Content/WoN/Blueprints. En la carpeta WoN además encontraremos otra con los assets que hemos utilizado. 
 
 Sed libres de utilizar este proyecto para aprender a realizar algoritmos un poco más avanzados, o bien incluso para coger los blueprints y utilizarlos en vuestro propio proyecto. 
+
+---------------------------------------
