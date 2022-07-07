@@ -5,6 +5,9 @@ Este trabajo consiste en la creación de un videojuego de cartas, cuya mecánica
 
 Para poder hacer funcionar el código, debes tener instalado el editor de Unreal (se instala una vez has instalado el motor gráfico en Epic), teniendo instalado la versión 4.27 del motor gráfico.
 
+Antes de ejecutar el proyecto, deberás añadir en la carpeta raíz la carpeta **StarterContent**, la cual puedes descargar con el siguiente enlace:
+https://drive.google.com/drive/folders/1bVRMUYT0cuPTI5lDq-gjPQg6jO__tcLI?usp=sharing
+
 Una vez instalado, podemos abrir la carpeta WillOfNature_TFG y ejecutaremos el archivo **WillOfNature.uproject**. Una vez hecho esto, se nos abrirá el editor de unreal para que empecemos a diseñar.
 
 ---------------------------------------
